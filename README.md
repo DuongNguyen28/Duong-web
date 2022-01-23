@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Duong Nguyen Pages
 
 You can use the [editor on GitHub](https://github.com/DuongNguyen28/Duong-web/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
